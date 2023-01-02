@@ -1,0 +1,13 @@
+#main {
+    margin: 1em;
+}
+
+.post {
+    border: solid 1px gray;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+.created {
+    color: gray;
+}
